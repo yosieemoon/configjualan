@@ -4,7 +4,7 @@
 local CONFIG = {
     -- Setting Integrasi Webhook & Bot
     WEBHOOK_ADMIN  = "https://discordapp.com/api/webhooks/1495726080017825852/bBafExMh7xiMzK6s1mLtWFJK1XxMoyROv-qIVBS5Pwq8JvI4Kz_RoZPBbb_-48oTe5mE",
-    STOCK_URL      = "https://script.google.com/macros/s/AKfycbzcub41hUz-GMIHEw0Kr2zb6bxb-A-DDqIXQLf1OxSkEy99UhUtw4y1DFHMfjSg7PH3Vw/exec",
+    STOCK_URL      = "https://script.google.com/macros/s/AKfycbwYdvnIw4V9PCA4_8enoWKxwluFvUWtraqZJQZkshf9DDt2g00rSYCgwvzxdGLN95Dg/exec",
     STOCK_SECRET   = "xx",
     STOCK_INTERVAL = 20,
     MAX_SLOT       = 20,
