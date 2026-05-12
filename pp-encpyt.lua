@@ -44,7 +44,7 @@ local CONFIG = {
     },
 
     coin_prices = {
-        ["Flatheaded Whale Shark"] = 0.15, -- 1.5M
+        ["Flatheaded Whale Shark"] = 0.12, -- 1.5M
         ["Cavern Dweller"]       = 0.85, -- 1.2M
         ["Primordial Octopus"]   = 0.105, -- 2.0M
     },
