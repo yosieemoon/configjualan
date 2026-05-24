@@ -18,7 +18,7 @@ local CONFIG = {
         ["Panther Eel"]           = true, ["Cryoshade Glider"]       = true,
         ["Blob Shark"]            = true, ["Bone Whale"]             = true,
         ["Great Whale"]           = true, ["Depthseeker Ray"]        = true,
-        ["King Crab"]             = true, ["Queen Crab"]             = true,
+        ["King Crab"]             = true, ["Queen Crab"]             = true, ["Coral Whale"]  = true ,
         ["Strawberry Orca"]       = true,  -- mode sendiri: SORCA (bukan SCTB)
         ["Crocodile"]             = false,  -- mode sendiri: CROC (bukan SCTB)
         ["Flatheaded Whale Shark"] = false, -- mode sendiri: FLAT
